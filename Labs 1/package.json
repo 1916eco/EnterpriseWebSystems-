@@ -2,11 +2,11 @@
   "name": "labs-1",
   "version": "1.0.0",
   "description": "",
-  "start": "node main_html.js",
   "main": "main_html.js",
 
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "start": "node main_html.js",
+  "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Enrico Simon 2006947",
   "license": "ISC"
