@@ -34,7 +34,7 @@ http.createServer(function (req, res) {
     if(!exist) {
       // if the file is not found, return 404
       res.statusCode = 404;
-      res.end(`File ${pathname} not found! remember to include the full path to your file, e.g https://wibble-wobble-8080.codio.io/lab_1/test.html`);
+      res.end(`File ${pathname} not found!`);
       return;
     }
 
