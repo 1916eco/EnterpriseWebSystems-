@@ -2,10 +2,10 @@
   "name": "labs-1",
   "version": "1.0.0",
   "description": "",
-  "main": "main_html.js",
+  "main": "server.js",
 
   "scripts": {
-  "start": "node main_html.js",
+  "start": "node server.js",
   "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Enrico Simon 2006947",
