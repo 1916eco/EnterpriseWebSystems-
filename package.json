@@ -1,0 +1,19 @@
+{
+  "name": "enterprisewebsystems-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "SimpleServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1916eco/EnterpriseWebSystems-.git"
+  },
+  "author": "Enrico Simon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1916eco/EnterpriseWebSystems-/issues"
+  },
+  "homepage": "https://github.com/1916eco/EnterpriseWebSystems-#readme"
+}
